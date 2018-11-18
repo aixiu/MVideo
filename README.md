@@ -7,16 +7,14 @@
 3. 兼容MacCmsV10采集规则（只需后台设置MacCms综合资源采集API即可）
 4. 程序大小3-4MB左右
 5. 采用Sqlite数据库（无需配置）
+6. 用户注册登录
+7. 观影历史记录
+8. 屏蔽分类
+9. 侵权设置
+10. 敏感屏蔽
 
-但是由于最近遇到了版权狗，不想更新了，版权狗博客：https://blog.hidove.cn/
+演示地址：[http://mvideo.tech](http://mvideo.tech)
 
-想了解更多 可发邮箱 mlooc@qq.com 进行了解，
-
-多次警告无效，写一次盗一次，就连MVideoT也被盗了，
-
-所以 新版本短期内不会开源了。
-
-新版本：[http://v.mlooc.cn](http://v.mlooc.cn)
 
 ## 简介
 1. 自动采集影视资源
